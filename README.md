@@ -11,3 +11,5 @@ my replays, but in practice the replay format is more or less a recording
 of user clicks, not of game logic, so it's difficult to extract anything
 interesting (like, say, damage dealt) without a full implementation of all
 the game logic (which itself varies per patch).
+
+See e.g. [the godocs](http://godoc.org/github.com/martine/goblizzard/src/blizzard/mpq).
